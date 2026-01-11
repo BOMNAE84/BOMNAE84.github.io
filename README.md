@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<끝말잇기 대결>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
